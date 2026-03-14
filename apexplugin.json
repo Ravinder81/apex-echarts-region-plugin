@@ -30,11 +30,14 @@
   },
 
   "oracle": {
+    "versions": ["11.2.0.4", "12.1.0.2"],
+
     "apex": {
+      "versions": ["19.2", "20.1", "21.1", "22.1", "23.1"],
+
       "plugin": {
         "internalName": "COM.THAPLIYALRAVI.ECHARTS.REGION",
         "type": "region",
-        "demo": "",
         "previewImage": "https://raw.githubusercontent.com/Ravinder81/apex-echarts-region-plugin/master/bar.png"
       }
     }
