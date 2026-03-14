@@ -1,17 +1,42 @@
 {
   "name": "Apache ECharts Region Plugin",
-  "description": "Oracle APEX region plugin integrating Apache ECharts for modern interactive charts.",
   "version": "1.0.0",
-  "author": "Ravindra Thapliyal",
-  "homepage": "https://github.com/Ravinder81/apex-echarts-region-plugin",
-  "license": "MIT",
-  "type": "region",
-  "pluginFile": "region_type_plugin_com_thapliyalravi_echarts_region.sql",
+  "description": "Oracle APEX region plugin integrating Apache ECharts for modern interactive charts.",
   "keywords": [
     "apex",
     "oracle apex",
     "echarts",
     "charts",
     "visualization"
-  ]
+  ],
+
+  "homepage": "https://github.com/Ravinder81/apex-echarts-region-plugin",
+
+  "bugs": {
+    "url": "https://github.com/Ravinder81/apex-echarts-region-plugin/issues"
+  },
+
+  "license": "MIT",
+  "commercial": "No",
+
+  "author": {
+    "name": "Ravindra Thapliyal",
+    "url": "https://github.com/Ravinder81"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ravinder81/apex-echarts-region-plugin.git"
+  },
+
+  "oracle": {
+    "apex": {
+      "plugin": {
+        "internalName": "COM.THAPLIYALRAVI.ECHARTS.REGION",
+        "type": "region",
+        "demo": "",
+        "previewImage": "https://raw.githubusercontent.com/Ravinder81/apex-echarts-region-plugin/master/bar.png"
+      }
+    }
+  }
 }
