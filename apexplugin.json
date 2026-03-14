@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Ravinder81/apex-echarts-region-plugin",
   "license": "MIT",
   "type": "region",
-  "apexPluginFile": "region_type_plugin_com_thapliyalravi_echarts_region.sql",
+  "pluginFile": "region_type_plugin_com_thapliyalravi_echarts_region.sql",
   "keywords": [
     "apex",
     "oracle apex",
