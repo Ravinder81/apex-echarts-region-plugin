@@ -1,0 +1,16 @@
+{
+  "name": "Apache ECharts Region Plugin",
+  "description": "Oracle APEX region plugin integrating Apache ECharts for modern interactive charts.",
+  "version": "1.0.0",
+  "author": "Ravi",
+  "homepage": "https://github.com/Ravinder81/apex-echarts-region-plugin",
+  "license": "MIT",
+  "type": "region",
+  "keywords": [
+    "apex",
+    "oracle apex",
+    "echarts",
+    "charts",
+    "visualization"
+  ]
+}
