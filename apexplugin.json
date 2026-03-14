@@ -30,14 +30,23 @@
   },
 
   "oracle": {
-    "versions": ["11.2.0.4", "12.1.0.2"],
+    "versions": [
+      "11.2.0.4",
+      "12.1.0.2"
+    ],
 
     "apex": {
-      "versions": ["22.2", "23.1", "23.2", "24.1"],
+      "versions": [
+        "22.2",
+        "23.1",
+        "23.2",
+        "24.1"
+      ],
 
       "plugin": {
         "internalName": "COM.THAPLIYALRAVI.ECHARTS.REGION",
         "type": "region",
+        "demo": "https://ge13be84cc91be4-uma2c7ig0a3f9gm9.adb.ap-mumbai-1.oraclecloudapps.com/ords/r/selectai_admin/selectai/home",
         "previewImage": "https://raw.githubusercontent.com/Ravinder81/apex-echarts-region-plugin/master/bar.png"
       }
     }
