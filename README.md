@@ -1,8 +1,3 @@
-Nice, Ravi! Your repo is already solid. The **one small improvement** that makes open-source plugins look much more professional is adding a few **GitHub badges at the top of the README** (license, APEX compatibility, etc.). It immediately signals quality to developers browsing your project. 🚀
-
-Replace your README content with this **complete version** (it includes badges + your existing sections). Paste it all at once:
-
-```
 # Apache ECharts Region Plugin for Oracle APEX
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -17,12 +12,12 @@ Apache ECharts is a powerful open-source charting library that allows developers
 
 ## Features
 
-- Apache ECharts integration
-- Interactive charts
-- JSON configuration support
-- Works with Oracle APEX 19.2+
-- Lightweight implementation
-- Easy integration with APEX regions
+- Apache ECharts integration  
+- Interactive charts  
+- JSON configuration support  
+- Works with Oracle APEX 19.2+  
+- Lightweight implementation  
+- Easy integration with APEX regions  
 
 ---
 
@@ -30,27 +25,15 @@ Apache ECharts is a powerful open-source charting library that allows developers
 
 1. Import the plugin file into your APEX workspace
 
-```
-
-region_type_plugin_com_thapliyalravi_echarts_region.sql
-
-```
+`region_type_plugin_com_thapliyalravi_echarts_region.sql`
 
 2. Import the demo application
 
-```
-
-echarts_demo_app.sql
-
-```
+`echarts_demo_app.sql`
 
 3. Create a region in Oracle APEX and select:
 
-```
-
-Apache ECharts Region Plugin
-
-```
+`Apache ECharts Region Plugin`
 
 ---
 
@@ -71,6 +54,3 @@ Apache ECharts Region Plugin
 
 Ravi  
 Oracle APEX Tutorials
-
-
-
