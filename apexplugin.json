@@ -13,7 +13,8 @@
   "homepage": "https://github.com/Ravinder81/apex-echarts-region-plugin",
 
   "bugs": {
-    "url": "https://github.com/Ravinder81/apex-echarts-region-plugin/issues"
+    "url": "https://github.com/Ravinder81/apex-echarts-region-plugin/issues",
+    "email": "thapliyalravi80@gmail.com"
   },
 
   "license": "MIT",
@@ -21,6 +22,7 @@
 
   "author": {
     "name": "Ravindra Thapliyal",
+    "email": "thapliyalravi80@gmail.com",
     "url": "https://github.com/Ravinder81"
   },
 
